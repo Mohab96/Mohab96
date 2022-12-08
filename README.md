@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **mohabkhaleefa540@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1d4DECkVTQt1Cm2w7jD3ph2uyG_BpDaPm/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17wzyWIURTeBsZIt2W0QsDGxOgzJeYiRo/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
