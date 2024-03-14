@@ -14,7 +14,7 @@
 - ⚡ I enjoy Chess and Anime.  
   
 
-- 📢 Take a look on my [resume](https://drive.google.com/file/d/17964z3vsrtkrZkIbkxOd2RooyfGLTmZm/view?usp=drive_link)  
+- 📢 Take a look at my [resume](https://drive.google.com/file/d/11GAxcpStEr45-pz7qmPdQIRCJV875HMg/view?usp=drive_link)  
 <br/>
 
 ## My Skill Set  
