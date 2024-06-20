@@ -1,7 +1,5 @@
 ## <div align="center">I'm Mohab, a Backend Developer🚀</div>  
 
-### Intro
-
 - 📫 Reach me @ mohabyaserofficial2003@gmail.com  
   
 
