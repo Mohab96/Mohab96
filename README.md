@@ -12,7 +12,10 @@
 - ⚡ I enjoy Chess and Anime.  
   
 
-- 📢 Take a look at my [resume](https://drive.google.com/file/d/1cVnmVWEw4GsVrJjY14b7Lct-aqfTIgSy/view?usp=sharing)  
+- 📢 Take a look at my [resume](https://drive.google.com/file/d/1cVnmVWEw4GsVrJjY14b7Lct-aqfTIgSy/view?usp=sharing)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mohab96)
+
 <br/>
 
 ## My Skill Set  
