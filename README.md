@@ -15,14 +15,9 @@
 - 📢 Take a look at my [resume](https://drive.google.com/file/d/13ABQH3g3xo0N982pUqjH93EhKZtTabRX/view?usp=sharing)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohab96)
-
 <br/>
-
 ## My Skill Set  
-
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Programming Languages  
 <div align="center">  
