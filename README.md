@@ -3,7 +3,7 @@
 - 📫 Reach me @ mohabyaserofficial2003@gmail.com  
   
 
-- 🌱 I’m currently learning [Fundamentals of database engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/)  
+- 🌱 I’m currently learning [MIT 6.824 Distributed Systems](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)  
   
 
 - 🤝 I’m looking for help with getting an SWE internship  
