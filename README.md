@@ -6,10 +6,10 @@
 - 🌱 I’m currently learning [MIT 6.824 Distributed Systems](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)  
   
 
-- 🤝 I’m looking for help with getting an SWE internship  
-  
+- 🤝 I’m looking for help with getting an Full/Part Time Job.
 
-- ⚡ I enjoy Chess and Anime.  
+
+- ⚡ I'm a former SWE intern at eTax & Quantum Bits.
   
 
 - 📢 Take a look at my [resume](https://drive.google.com/file/d/18GTp-0tyhYNf_OSUl_eYY69EOGLm-rl8/view?usp=sharing)
