@@ -12,7 +12,7 @@
 - ⚡ I'm a former SWE intern at eTax & Quantum Bits.
   
 
-- 📢 Take a look at my [resume](https://drive.google.com/file/d/18GTp-0tyhYNf_OSUl_eYY69EOGLm-rl8/view?usp=sharing)
+- 📢 Take a look at my [resume](https://drive.google.com/file/d/1LfOiNWFFeV3qBXRiOzAjmU_5OG9CAckp/view?usp=sharing)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohab96)
 <br/>
