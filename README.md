@@ -1,17 +1,10 @@
 ## <div align="center">I'm Mohab, a Backend Developer🚀</div>  
 
-- 📫 Reach me @ mohabyaserofficial2003@gmail.com  
-  
-
-- 🌱 I’m currently learning [MIT 6.824 Distributed Systems](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)  
-  
-
-- 🤝 I’m looking for help with getting an Full/Part Time Job.
-
-
+- ☀️ I got select in Google Summer of Code 2025 with PostgreSQL
 - ⚡ I'm a former SWE intern at eTax & Quantum Bits.
-  
-
+- 🤝 I’m looking for help with getting an Full/Part Time Job.
+- 🌱 I’m currently learning [MIT 6.824 Distributed Systems](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)  
+- 📫 Reach me @ mohabyaserofficial2003@gmail.com
 - 📢 Take a look at my [resume](https://drive.google.com/file/d/1LfOiNWFFeV3qBXRiOzAjmU_5OG9CAckp/view?usp=sharing)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohab96)
