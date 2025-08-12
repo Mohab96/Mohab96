@@ -5,7 +5,7 @@
 - 🤝 I'm looking for help with getting a Full/Part Time Job
 - 🌱 I'm currently learning [MIT 6.824 Distributed Systems](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 - 📫 Reach me @ mohabyaserofficial2003@gmail.com
-- 📢 Take a look at my [resume](https://drive.google.com/file/d/1xzfGRZKDHuPKIsijl3pgPfztcgrzaOU7/view?usp=sharing)
+- 📢 Take a look at my [resume](https://drive.google.com/file/d/1XPV8ab7l5T3OnyRseQwZwncvXXWWdyLO/view?usp=sharing)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohab96)
 
