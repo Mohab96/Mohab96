@@ -14,12 +14,12 @@
 
 ### Programming Languages
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,go" alt="Programming Languages" />
 </div>
 
 ### Frameworks & Technologies
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,django,react,docker,postgresql,redis" alt="Frameworks & Technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,django,react,docker,postgresql,mysql,redis" alt="Frameworks & Technologies" />
 </div>
 
 ### Tools
