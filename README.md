@@ -1,6 +1,6 @@
 # <div align="center">I'm Mohab, a Backend Developer 🚀</div>
 
-- 🌀 Currently part of the **LFX Mentorship 2025** with CNCF-Kyverno  
+- 🌀 Currently part of the **LFX Mentorship 2025** with Kyverno  
 - ☀️ Selected for **Google Summer of Code 2025** with PostgreSQL  
 - ⚡ Previously worked as a **Software Engineering Intern** at eTax & Quantum Bits  
 - 🤝 Actively looking for a **Full-Time Software Engineering role** (open to relocation)  
