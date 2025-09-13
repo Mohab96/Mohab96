@@ -6,7 +6,7 @@
 - 🤝 Actively looking for a **Full-Time Software Engineering role** (open to relocation)  
 - 🌱 Learning and exploring **[MIT 6.824: Distributed Systems](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)**  
 - 📫 Reach me at **mohabyaserofficial2003@gmail.com**  
-- 📢 Check out my [**resume**](https://drive.google.com/file/d/1XPV8ab7l5T3OnyRseQwZwncvXXWWdyLO/view?usp=sharing)  
+- 📢 Check out my [**resume**](https://drive.google.com/file/d/15k_tShyGPyeri98h0CL7yFAuVEIHgiZp/view?usp=sharing)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohab96)
 
